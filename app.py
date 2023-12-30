@@ -8,7 +8,7 @@ from demo_pyecharts import ST_PY_DEMOS
 
 
 def main():
-    st.title("Streamlit ECharts Demo 12")
+    st.title("Streamlit ECharts Demo 123")
 
     with st.sidebar:
         st.header("Configuration")
